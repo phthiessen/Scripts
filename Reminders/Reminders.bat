@@ -1,0 +1,1 @@
+python C:\Scripts\Reminders\Main.py
