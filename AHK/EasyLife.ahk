@@ -1,6 +1,7 @@
 ; Autohotkey Script to make life easier
 ; Phil Thiessen
-; March 3rd, 2020
+; Created: March 03, 2020
+; Updated: March 16, 2020
 
 ; ^ > Ctrl
 ; ! > Alt
@@ -29,3 +30,40 @@ return
 ^+C::
 Run, "C:\Windows\System32\calc.exe"
 return
+
+;RButton & MButton::
+;Send, ^{F4}
+;return
+;
+;RButton & WheelDown::
+;Send, ^{Tab}
+;return
+;
+;RButton & WheelUp::
+;Send, ^+{Tab}
+;return
+;
+;XButton2 & WheelDown::
+;Send, {WheelRight}
+;return
+;
+;XButton2 & WheelUp::
+;Send, {WheelLeft}
+;return
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
