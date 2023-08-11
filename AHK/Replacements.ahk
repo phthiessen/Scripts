@@ -11,9 +11,6 @@
 
 ; Replacements
 
-::pmail::phthiessen@gmail.com
-::pph::903.423.7256
-
 ^d::
 Send, °{Left}{Backspace}{Right}
 return
@@ -26,6 +23,7 @@ return
 :C?*:phth::phthiessen
 
 ::teh::the
+::hte::the
 
 ^j::
 Run "C:\Users\Phil\Downloads"
