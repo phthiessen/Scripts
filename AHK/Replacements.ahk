@@ -11,7 +11,7 @@
 
 ; Replacements
 
-^d::
+^+d::
 Send, °{Left}{Backspace}{Right}
 return
 
